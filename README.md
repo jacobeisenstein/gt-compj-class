@@ -1,6 +1,7 @@
-%CS 4464/6465: Computational Journalism
-%Professor Jacob Eisenstein
+CS 4464/6465: Computational Journalism
+===========
 
+- Professor [Jacob Eisenstein](http://www.cc.gatech.edu/~jeisenst/)
 - Tuesday/Thursday 3:05-4:25, Clough 102
 - Prof's office hours: Tuesday 4:30-5:30, CCB 316
 - Teaching assistant: Yi Yang
