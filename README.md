@@ -8,19 +8,17 @@ CS 4464/6465: Computational Journalism
 
 # Syllabus #
 
-The syllabus is still under construction, but will follow [previous editions of the course](https://compjournalism.wordpress.com/) fairly closely. I will likely add some discussion of topic models and social media analysis.
+- [Course schedule](https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit?usp=sharing). This is still subject to revision!
+- [Evaluation]
 
-Likely readings:
+# Readings #
 
 - Kovach and Rosenstiel, **The Elements of Journalism** (2014 edition)
 - Meyer, **Precision Journalism** (4th edition)
-- Research papers
+- Lots of papers and examples
 
 # Policies #
 
-Respect your classmates and your instructor by avoiding distractions. This means be there on time, turn off your cellphone, and save side conversations for after class. Also, if you can't read something I wrote on the board, or if you think I made a mistake in a derivation, please raise your hand and tell me!
-
-Multiple studies have shown that using a laptop in class -- even for taking notes -- reduces students' educational attainment. See [here](http://www.newyorker.com/online/blogs/elements/2014/06/the-case-for-banning-laptops-in-the-classroom.html) for a popular press article summarizing this research. You are adults and must make your own decision, but my advice is to try pen and paper instead.
 
 
 
