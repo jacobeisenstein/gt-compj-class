@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City of Atlanta, Bureau of Planning, GIS Division</origin>
+				<pubdate>2006/12/31</pubdate>
+				<title>City Council Districts</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://gis.atlantaga.gov/wmsconnector/com.esri.wms.Esrimap?Request=GetMap&amp;Version=1.1.1&amp;Format=image/png&amp;ServiceName=Master&amp;SRS=EPSG:2240&amp;BBOX=2175000,1326000,2260000,1416000&amp;WIDTH=500&amp;HEIGHT=500&amp;Layers=City Council Districts</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This City Council Districts data layer represents the current boundaries of the Atlanta City Council districts.  The Council is the legislative branch of the City government and is composed of 15 members--12 representing each of the 12 single-member districts and 3 at-large posts.</abstract>
+			<purpose>This dataset is used for general mapping and analysis with respect to council districts.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006/12/31</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-84.551586</westbc>
+				<eastbc>-84.289311</eastbc>
+				<northbc>33.887102</northbc>
+				<southbc>33.647517</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>city council</themekey>
+				<themekey>boundaries</themekey>
+				<themekey>political</themekey>
+			</theme>
+			<theme>
+				<themekt>Atlanta GIS Catalog</themekt>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>003</themekey>
+			</theme>
+			<place>
+				<placekt>Geographic Names Information System</placekt>
+				<placekey>atlanta</placekey>
+				<placekey>fulton</placekey>
+				<placekey>georgia</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Senior GIS Technician</cntpos>
+				<cntvoice>404-330-6641</cntvoice>
+				<cntemail>stewilliams@atlantaga.gov</cntemail>
+				<cntorgp><cntorg>City of Atlanta, Bureau of Planning, GIS Division</cntorg><cntper>Joyce Jefferson</cntper></cntorgp></cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native></idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>12</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000328</absres>
+						<ordres>0.000328</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj><mapprojn>Transverse Mercator</mapprojn><transmer><sfctrmer>0.999900</sfctrmer><longcm>-84.166667</longcm><latprjo>30.000000</latprjo><feast>2296583.333333</feast><fnorth>0.000000</fnorth></transmer></mapproj></planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef><altsys><altenc>Explicit elevation coordinate included with horizontal coordinates</altenc><altres>1.000000</altres></altsys></vertdef></spref>
+	<eainfo>
+		<detailed>
+			<attr>
+				<attrlabl>SQ_MI</attrlabl>
+				<attrdef>Area in sqaure miles</attrdef>
+			</attr>
+			<enttyp>
+				<enttypl>GIS.POLITIC_COUNCIL_DISTRICTS_ST</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT</attrlabl>
+				<attrdef>District number</attrdef>
+			</attr>
+			<attr><attrlabl>OBJECTID</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>DISTRICT2</attrlabl></attr><attr><attrlabl>SHAPE</attrlabl><attrdef>Feature geometry.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl>SHAPE.AREA</attrlabl></attr><attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Area in acres</attrdef>
+			</attr>
+			<attr><attrlabl>SHAPE.LEN</attrlabl></attr></detailed>
+	</eainfo>
+	<metainfo>
+		<metd>20100212</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Atlanta Bureau of Planning GIS Division</cntorg>
+					<cntper>Steve Williams</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>55 Trinity Ave SW</address>
+					<city>Atlanta</city>
+					<state>Georgia</state>
+					<postal>30303</postal>
+				</cntaddr>
+				<cntvoice>404-330-6637</cntvoice>
+				<cntemail>stewilliams@atlantaga.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+	<dataqual><lineage><procstep><procdesc>Metadata imported.</procdesc><srcused>J:\egis_repository\boundaries\council_districts.shp.xml</srcused><date>20081229</date><time>14510900</time></procstep></lineage></dataqual><dataIdInfo><envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc><dataLang><languageCode value="en"/></dataLang><idCitation><resTitle>GIS.POLITIC_COUNCIL_DISTRICTS_ST</resTitle><presForm><PresFormCd value="005"/></presForm></idCitation><spatRpType><SpatRepTypCd value="001"/></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL>2179771.226667</westBL><eastBL>2259261.076874</eastBL><northBL>1414002.757268</northBL><southBL>1327019.980447</southBL><exTypeCode>1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL>-84.551586</westBL><eastBL>-84.289311</eastBL><northBL>33.887102</northBL><southBL>33.647517</southBL><exTypeCode>1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode value="en"/></mdLang><mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer>DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd value="004"/></mdChar><mdHrLv><ScopeCd value="005"/></mdHrLv><mdHrLvName>dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc>002</orDesc><linkage>Server=DITGISDB01.atlanta.local; Service=5157; User=gis; Version=SDE.DEFAULT</linkage><protocol>ArcSDE Connection</protocol></onLineSrc></distorTran><distorFormat><formatName>SDE Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode>NAD_1983_StatePlane_Georgia_West_FIPS_1002_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd value="001"/></topLvl><geometObjs><geoObjTyp><GeoObjTypCd value="001"/></geoObjTyp><geoObjCnt>12</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt>20100212</mdDateSt><Esri><CreaDate>20130219</CreaDate><CreaTime>11541000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce></Esri></metadata>
