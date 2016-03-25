@@ -6,7 +6,7 @@ Assessment will have the following components:
 - **Reading comprehension**, measured through reading reviews and pop quizzes: 10%. Six assessments, 2% each, you get credit for your best five.
 - **Class participation**: 10%
 - Written & oral **critique** of a computational journalism artifact: 10%
-- **Final project**: 25%. This includes proposal, presentation, writeup, self-assessment, and feedback on other students' projects.
+- **Final project**: 25%. This includes pre-proposal (2%), proposal (3%), presentation (5%), writeup (10%), self-assessment (2%), and feedback on other students' projects (3%).
 - **Twitter**: 15%
   - 5% for creating a class Twitter feed (see T-square for details)
   - 1% per week for tweeting a link relevant to the reading, max of 10% for the semester
